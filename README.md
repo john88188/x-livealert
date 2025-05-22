@@ -1,3 +1,5 @@
+[English Version](./README.en.md)
+
 # 预警机器人（xAI Live Search 方案）
 
 基于 xAI Live Search API 的自动化实时预警与发帖机器人。
@@ -97,3 +99,7 @@ project_root/
 如需定制开发、部署支持或遇到问题，欢迎联系项目维护者。
 
 [SamGor三哥](https://x.com/biggor888)
+
+---
+
+[English Version Below](./README.en.md)
